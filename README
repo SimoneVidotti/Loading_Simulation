@@ -14,9 +14,8 @@ The program displays a loading message followed by a percentage that increments 
 
 ## Installation
 Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/loading-progress-indicator.git
-   cd loading-progress-indicator
+```git clone https://github.com/yourusername/loading-progress-indicator.git```
+```cd loading-progress-indicator```
 
 ## Author:
 * Simone Vidotti

@@ -1,5 +1,5 @@
 # Loading Progress Indicator
-This is a simple C++ program that demonstrates a loading progress indicator in the terminal. 
+This is a simple C++ program that demonstrates a loading progress indicator in the terminal.
 The program displays a loading message followed by a percentage that increments from 1% to 100%.
 
 ## Features
@@ -14,8 +14,8 @@ The program displays a loading message followed by a percentage that increments 
 
 ## Installation
 Clone the repository:
-```git clone https://github.com/yourusername/loading-progress-indicator.git```
-```cd loading-progress-indicator```
+```bash git clone https://github.com/yourusername/loading-progress-indicator.git```
+```bash cd loading-progress-indicator```
 
 ## Author:
 * Simone Vidotti
